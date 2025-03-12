@@ -12,3 +12,5 @@ npm start
 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
 
 https://github.com/katiemarcus/price-guide-proto
+
+git remote set-url origin https://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@github.com/katiemarcus/price-guide-proto.git
