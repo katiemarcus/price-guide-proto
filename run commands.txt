@@ -1,0 +1,11 @@
+lsof -i :5001
+kill -9 PID
+
+cd /Users/katie/tailoring-app/backend
+node server.js
+
+cd /Users/katie/tailoring-app/frontend
+npm start
+
+
+
