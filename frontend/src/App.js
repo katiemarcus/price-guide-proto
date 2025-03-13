@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Tailoring Service</h1>
+        <h1>The Seam Price Guide</h1>
       </header>
       <Chat />
     </div>
