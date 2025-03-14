@@ -1,25 +1,27 @@
 {
-  "name": "tailoring-app",
+  "name": "price-guide-proto",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
+  "proxy": "http://localhost:5001",
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.2.0",
+    "@testing-library/user-event": "^13.5.0",
     "csv-parser": "^3.2.0",
-    "express": "^4.21.2",
-    "sqlite3": "^5.1.7"
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "react": "^18.0.0", 
+    "react-dom": "^18.0.0", 
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "test": "react-scripts test",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "eslintConfig": {
     "extends": [
       "react-app",
