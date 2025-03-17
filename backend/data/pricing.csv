@@ -1,7 +1,22 @@
 item,service,description,price
 Outerwear,Alteration,shorten sleeves,25.00
-Trousers,Repair,fix zipper,15.00
+Outerwear,Repair,tear repair,25.00
+Outerwear,Repair,fix or replace zipper,25.00
+Trousers,Repair,fix or replace zipper,15.00
 Trousers,Repair,Seam repair,10.50
+Trousers,Alteration,adjust waist,18.80
+Trousers,Alteration,adjust hem length,18.80
 Skirt,Alteration,adjust waist,18.80
-Dress,Alteration,Adjust length,16.50
+Skirt,Alteration,adjust hem length,18.80
+Dress,Alteration,Adjust hem length,16.50
+Dress,Alteration,Adjust waist,16.50
+Dress,Alteration,Adjust strap,16.50
 Knitwear,Repair,Hole repair,12.00
+Bag,Repair,fix or replace zipper,15.00
+Bag,Repair,fix or replace strap,15.00
+Bag,Repair,fix or replace lining,15.00
+Bag,Repair,recondition leather,15.00
+Shoes,Repair,fix heel,15.00
+Shoes,Repair,fix sole,15.00
+Shoes,Repair,fix or repair leather scuffs,15.00
+Shoes,Alteration,change colour,15.00
