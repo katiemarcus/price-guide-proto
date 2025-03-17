@@ -12,3 +12,7 @@ npm run build
 
 https://github.com/katiemarcus/price-guide-proto
 
+
+git add .
+git commit -m "Your commit message"
+git push origin main
